@@ -1,2 +1,3 @@
-txt="Hello World"
-txt=txt.lower()
+for x in "banana":
+  print(x)
+  

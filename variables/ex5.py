@@ -1,2 +1,3 @@
-#2my-first_name = "John"
-myfirst_name="John"
+x = "John"
+# is the same as
+x = 'John'

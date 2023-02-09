@@ -1,2 +1,2 @@
-txt="Hello World"
-txt=txt.upper()
+a = "Hello, World!"
+print(a[1])
